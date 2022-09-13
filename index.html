@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <META>タグはその文書に関する情報（メタ情報）を指定して、 ブラウザや検索ロボットに知らせるためのタグ。 -->
+<!-- システム情報を設定します。http-equiv属性で設定する項目を決め、content属性で、その値を設定します。-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Computational Intelligence Labo.</title>
+<!-- その文書の説明（description）・キーワード（keyword）を指定します。 ここで指定した値は多くの検索エンジンで利用される。 -->
+<meta name="keywords" content="computational intelligence, fuzzy systems, evolutionary computation, genetic algorithms, neural networks, data mining, multiobjective optimization, evolutionary game, osaka prefecture university" />
+<meta name="description" content="Computational Intelligence Labo. , Osaka Metropolitan University" />
+<!-- HTMLにおける主言語を指定 -->
+<meta http-equiv="Content-Language" content="ja" />
+<!-- 基準スタイルシート言語と基準スクリプト言語の指定 -->
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<!-- イメージツールバーを非表示にする -->
+<meta http-equiv="imagetoolbar" content="no" />
+<!-- link要素はリンクの関係を示すrel属性（あるいはrev属性）と、リンク先を指定するhref属性を組み合わせて使う。 -->
+<link href="assets/images/common/markicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="assets/images/common/markicon.ico" rel="icon" type="image/vnd.microsoft.icon" />
+<!-- スタイルシート -->
+<link href="assets/css/reset.css" rel="stylesheet" type="text/css" media="all" />
+<link href="assets/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!--Script -->
+<script type="text/javascript" src="assets/js/jquery-1.5.2.min.js"></script>
+
+<script type="text/javascript" src="assets/js/bgstretcher.js"></script>
+<link rel="stylesheet" href="assets/css/bgstretcher.css" />
+<script type="text/javascript">
+	function setBg(){
+
+		var url=[];
+		url[0] = 'top1.jpg';
+		url[1] = 'top2.jpeg';
+		url[2] = 'top3.jpeg';
+		url[3] = 'top4.jpeg';
+		var n = Math.floor(Math.random() * url.length);
+		var elm = document.getElementById('bg');
+		elm.style.backgroundImage = 'url(assets/images/index/top_page/' + url[n] + ')';
+
+		$("#button li").click(function () { 
+			var n = $(this).index("li");
+			var elm = document.getElementById('bg');
+			elm.style.backgroundImage = 'url(assets/images/index/top_page/' + url[n] + ')';
+	    });
+	}
+	function hide(){
+		$(".part1").hide();
+		$(".part2").hide();
+		$(".part3").hide();
+		$(".part4").hide();
+		$(".part5").hide();
+		$("#button").hide();
+	}
+	function move(){
+		$(".part1").hide().css({'left': '300px'}).delay(200).fadeIn(1500).animate({'left': '0px'});
+		$(".part2").delay(2000).fadeIn("slow");
+       	$(".part3").delay(2100).fadeIn("slow");
+       	$(".part4").delay(2200).fadeIn("slow");
+       	$(".part5").delay(2300).fadeIn("slow");
+       	$("#button").delay(2300).slideDown();
+    }
+	$(function(){
+		setBg();
+		hide();
+		move();
+	});
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40142140-1', 'osakafu-u.ac.jp');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body id="bg">
+<div id="mainArea" class="part0">
+	<div id="logo" class="part2">
+		<img src="assets/images/index/title.png" alt="" width="800">
+	</div>
+	<div id="mark" class="part1">
+		<img src="assets/images/index/mark.png" alt="">
+	</div>
+	<div id="navi">
+		<div id="enter" class="part3">
+			<img src="assets/images/index/enter.png" alt="" width="560">
+		</div>
+		<div id="language" class="part4">
+			<a href="index_j.php">
+				<img src="assets/images/index/japanese.png" alt="japanese" onmouseover="this.src='assets/images/index/japanese_ho.png'" onmouseout="this.src='image/japanese.png'" width="280">
+			</a>
+			<a href="EnglishPage/index_e.php">
+				<img src="assets/images/index/english.png" alt="english" onmouseover="this.src='assets/images/index/english_ho.png'" onmouseout="this.src='image/english.png'"width="280">
+			</a>
+		</div>
+	</div>	
+	<div id="copy" class="part5">
+		<p>
+			&copy Copyright 2013 Computational Intelligence Labo. All Rights Reserved.
+		</p>
+	</div>
+	<div>
+		<ul id="button">
+			<li style="float: left;"></li>
+			<li style="clear: both; float: left;"></li>
+			<li style="float: left;"></li>
+			<li style="clear: both; float: left;"></li>
+			<li style="float: left;"></li>
+			<li style="float: left;"></li>
+		</ul>
+	</div>
+</div>
+</body></html>

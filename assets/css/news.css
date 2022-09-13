@@ -1,0 +1,42 @@
+	#circle {
+		position: absolute;
+		text-align: center;
+		height: 70px;
+	    width: 70px;
+	    background-image: url("circle.png");
+	}
+
+    font.date {
+    	font-size: 25pt; 
+	    color: rgb(0, 137, 161);
+	    font-weight:bold; 
+	    font-family: arial black,Charcoal;
+    }
+	
+    font#news-title {
+		top: 2px;
+    	padding: 1px;
+    	font-size: 15pt; 
+	    color: white; 
+	    font-weight:bold;
+	    font-family:'Lucida Grande','Hiragino Kaku Gothic ProN',Meiryo, sans-serif;
+	    background-color: #00cccc;
+	    -moz-border-radius: 10px;
+		-o-border-radius: 10px;
+		border-radius: 10px;
+    }
+    
+    #news-main {
+    	margin: 0 auto;
+	    color:black; 
+	    width: 600px;
+	    font-family:'Lucida Grande','Hiragino Kaku Gothic ProN',Meiryo, sans-serif;
+    }
+	
+    .news-image{
+    	/*影を入れる*/
+		-webkit-box-shadow: 0px 10px 20px rgba(0,0,0,0.7);
+		-moz-box-shadow: 0px 10px 20px rgba(0,0,0,0.7);
+		box-shadow: 0px 10px 20px rgba(0,0,0,0.7);
+	}
+}

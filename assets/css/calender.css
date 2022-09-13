@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+.X_calendar_table td { border: 1px solid #C6C6C6; text-align: center; padding: 2px }
+
+.X_calendar_weeks{
+	text-align: center;
+}
+
+.X_calendar_weeksF{
+	text-align: center;
+	
+}
+
+.X_calendar_today{
+	background-color: #CCCCCC;
+	text-align: center;
+}
+
+.X_calendar_default {
+	color: #999999;
+	text-align: center;
+}
+
+
+.X_calendar_holiday{
+	color: #FF9999;
+}
+
+
+

@@ -1,0 +1,146 @@
+body{
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:0.8em;
+	color:#000033;
+	background-color: #CCC;
+	background: url(../image/top1.jpg) no-repeat center center fixed;
+	    -webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    -o-background-size: cover;
+	    background-size: cover;
+}
+
+* html body{
+	overflow: hidden;
+}
+
+h2{
+	line-height:1em;
+	margin:0px 0px 10px 0px;
+	padding:0px;
+	font-size:1.2em;
+}
+h3{
+	line-height:1em;
+	margin:0px 0px 10px 0px;
+	padding:0px;
+	font-size:1.2em;
+}
+
+p{
+	line-height:1.6em;
+}
+
+a{
+	text-decoration:none;
+	color:#FFFFFF;
+}
+a:hover{
+	color:#0000FF;
+}
+
+#mainArea{
+	position: fixed !important;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -195px;
+	margin-left: -450px;;
+	width: 900px;
+	height: 390px;
+	text-align: center;
+
+	-webkit-box-shadow:0 1px 5px rgba(0, 0, 0, 0.5), 0 0 50px rgba(0, 0, 0, 0.3) inset;
+    	-moz-box-shadow:0 1px 5px rgba(0, 0, 0, 0.5), 0 0 50px rgba(0, 0, 0, 0.3) inset;
+    		box-shadow:0 1px 5px rgba(0, 0, 0, 0.5), 0 0 50px rgba(0, 0, 0, 0.3) inset;
+    		
+   	
+	background: url(../image/bg.png) center center fixed;
+	background-color: rgba(150, 150, 200, 0.5);
+}
+
+#logo{
+	position: relative;
+	margin: 0 auto;
+	top: 20px;
+	padding: 10px;
+	width: 840px;
+	text-align: center;
+	background-color: #000033;
+}
+#logo img{
+	position:relative;
+}
+
+#mark{
+	position: absolute;
+	top: 50px;
+	left: 0px;
+	width: 300px;
+	height: 320px;
+	text-align: center;
+}
+
+#mark img{
+	position: relative;
+	top: 40px;
+}
+
+#navi{
+	position: absolute;
+	right: 0;
+	width: 600px;
+	height: 320px;
+}
+
+#enter{
+	position: relative;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+#enter img{
+
+}
+
+#language{
+	position: relative;
+	margin: 0 auto;
+	margin-top: 20px;
+	width: 580px;
+
+}
+#language img.japanese{
+	position: relative;
+	float: left;
+}
+#language img.english{
+	position: relative;
+	float: right;
+}
+
+#copy{
+	position: absolute;
+	bottom: 13px;
+	color: #003;
+	width: 900px;
+}
+
+#button{
+	position: absolute;
+	left: 3px;
+	bottom: 3px;
+	list-style:none
+}
+#button li{
+	float:left;
+	margin: 2px;
+	background-color: #003;
+	width: 10px;
+	height: 10px;
+	cursor: pointer;
+}
+
+/* Smartphones ----------- */
+@media only handheld {
+  #mobile_detect { display: none; }
+}
