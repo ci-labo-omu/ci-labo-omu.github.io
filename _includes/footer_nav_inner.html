@@ -1,0 +1,11 @@
+{% assign loop_num = include.entries | size | minus: 1 | divided_by: include.lim_num | plus: 1 %}
+{% for i in (1..loop_num) %}
+<div class="section">
+    <h3>{{ include.menu_title }}</h3>
+    <ul>
+    {% for entry in include.entries limit: include.lim_num offset: continue %}
+    <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+    {% endfor %}
+    </ul>
+</div>
+{% endfor %}

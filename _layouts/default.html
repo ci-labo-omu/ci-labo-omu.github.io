@@ -49,27 +49,7 @@
 
       <div id="footer">
          <div id="footMenu">
-            <div class="section">
-               <h3>メニュー</h3>
-               <ul>
-                  <li><a href="labo_news.php">ニュース</a></li>
-                  <li><a href="Member/ishibuchi_group.php">メンバー</a></li>
-                  <li><a href="labo_outline.php">研究室紹介</a></li>
-                  <li><a href="3grade_student.php">3回生向けページ</a></li>
-                  <li><a href="ConferenceReport.php">国際会議参加記</a></li>
-               </ul>
-            </div>
-
-            <div class="section">
-               <h3>メニュー</h3>
-               <ul>
-                  <li><a href="students_activity.php">研究室の学生の活躍</a></li>
-                  <li><a href="teachers_activity.php">研究室の教員の活躍</a></li>
-                  <li><a href="Papers/DownloadablePapers.php">Downloadable Papers</a></li>
-                  <li><a href="conference.php">Conference Calendar</a></li>
-                  <li><a href="access.php">研究室へのアクセス</a></li>
-               </ul>
-            </div>
+            {% include footer_nav.html %}
 
             {% include footer_external_link.html %}
 

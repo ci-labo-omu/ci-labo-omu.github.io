@@ -1,0 +1,5 @@
+{%if page.lang == "en"%}
+{% include footer_nav_inner.html menu_title="MENU" entries=site.pages_en lim_num=4 %}
+{% else %}
+{% include footer_nav_inner.html menu_title="メニュー" entries=site.pages_ja lim_num=4 %}
+{% endif %}
