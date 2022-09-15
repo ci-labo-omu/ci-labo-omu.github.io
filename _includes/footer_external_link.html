@@ -1,0 +1,13 @@
+<div class="section">
+    {% if page.lang == "en" %}
+
+    <h3>Link</h3>
+    {% include footer_external_link_inner.html arg=site.data.external_link.en %}
+
+    {% else %}
+
+    <h3>リンク</h3>
+    {% include footer_external_link_inner.html arg=site.data.external_link.ja %}
+
+    {% endif %}
+</div>

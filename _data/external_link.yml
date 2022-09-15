@@ -1,0 +1,26 @@
+en:
+  - link: https://ci-labo-omu.github.io/
+    name: Computational Intelligence Labo.
+  
+  - link: https://www.omu.ac.jp/en/
+    name: Osaka Metropolitan University
+
+  - link: https://www.omu.ac.jp/i/
+    name: Graduate School of Informatics
+
+  - link: https://www.omu.ac.jp/i/ci_en/
+    name: Department of Core Informatics
+
+
+ja:
+  - link: https://ci-labo-omu.github.io/
+    name: 計算知能研究室
+
+  - link: https://www.omu.ac.jp
+    name: 大阪公立大学
+
+  - link: https://www.omu.ac.jp/i/
+    name: 情報学研究科
+
+  - link: https://www.omu.ac.jp/i/ci/
+    name: 基幹情報学専攻

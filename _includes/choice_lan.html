@@ -1,0 +1,7 @@
+<span id="ChoiceLan">
+    {% if page.lang == "en" %}
+    Language [<a href={{ page.linked_page }}>Japanese</a>/English]
+    {% else %}
+    Language [Japanese/<a href={{ page.linked_page }}>English</a>]
+    {% endif %}
+</span>

@@ -1,0 +1,97 @@
+<!DOCTYPE html
+   PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+
+
+
+<head>
+   {% include meta_common.html %}
+
+
+   {% include meta_default.html %}
+
+
+   {% include title.html %}
+</head>
+
+
+
+<body>
+   <div id="top">
+      <div id="header">
+         {% include logo.html %}
+         {% include choice_lan.html %}
+         <div>
+         </div>
+      </div><!-- /#header -->
+
+
+      <div id="bgColor">
+         <div id="mainImgBox">
+            {% include header_slide.html %}
+            {% include header_message.html %}
+         </div><!-- div#mainImgBox END -->
+      </div><!-- div#bgColor END -->
+
+
+      <div id="contents">
+         <div id="main">
+            {{ content }}
+         </div><!-- /#main -->
+
+         <div id="sub">
+            <div class="section">
+               <h3>メニュー</h3>
+               <ul>
+                  <li><a href="<?php echo $path; ?>labo_news.php">ニュース</a></li>
+                  <li><a href="<?php echo $path; ?>Member/ishibuchi_group.php">メンバー</a></li>
+                  <li><a href="<?php echo $path; ?>labo_outline.php">研究室紹介</a></li>
+                  <li><a href="<?php echo $path; ?>3grade_student.php">3回生向けページ</a></li>
+                  <li><a href="<?php echo $path; ?>Papers/DownloadablePapers.php">Downloadable Papers</a></li>
+                  <li><a href="<?php echo $path; ?>conference.php">Conference Calendar</a></li>
+                  <li><a href="<?php echo $path; ?>students_activity.php">研究室の学生の活躍</a></li>
+                  <li><a href="<?php echo $path; ?>teachers_activity.php">研究室の教員の活躍</a></li>
+                  <li><a href="<?php echo $path; ?>ConferenceReport.php">国際会議参加記</a></li>
+                  <li><a href="<?php echo $path; ?>access.php">研究室へのアクセス</a></li>
+               </ul>
+            </div><!-- /.section -->
+         </div><!-- /#sub -->
+
+         {% include return2top.html %}
+      </div><!-- /#contents -->
+
+
+      <div id="footer">
+         <div id="footMenu">
+            <div class="section">
+               <h3>メニュー</h3>
+               <ul>
+                  <li><a href="<?php echo $path; ?>labo_news.php">ニュース</a></li>
+                  <li><a href="<?php echo $path; ?>Member/ishibuchi_group.php">メンバー</a></li>
+                  <li><a href="<?php echo $path; ?>labo_outline.php">研究室紹介</a></li>
+                  <li><a href="<?php echo $path; ?>3grade_student.php">3回生向けページ</a></li>
+                  <li><a href="<?php echo $path; ?>ConferenceReport.php">国際会議参加記</a></li>
+               </ul>
+            </div>
+
+            <div class="section">
+               <h3>メニュー</h3>
+               <ul>
+                  <li><a href="<?php echo $path; ?>students_activity.php">研究室の学生の活躍</a></li>
+                  <li><a href="<?php echo $path; ?>teachers_activity.php">研究室の教員の活躍</a></li>
+                  <li><a href="<?php echo $path; ?>Papers/DownloadablePapers.php">Downloadable Papers</a></li>
+                  <li><a href="<?php echo $path; ?>conference.php">Conference Calendar</a></li>
+                  <li><a href="<?php echo $path; ?>access.php">研究室へのアクセス</a></li>
+               </ul>
+            </div>
+
+            {% include footer_external_link.html %}
+
+            <div class="copyright">
+               Copyright &copy; 2013-{{ site.time | date: "%Y" }} Computational Intelligence Labo. All Rights Reserved.
+            </div>
+         </div><!-- /#footer -->
+      </div><!-- /#top -->
+</body>
+
+</html>

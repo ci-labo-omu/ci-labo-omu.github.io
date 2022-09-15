@@ -1,0 +1,59 @@
+<link href="../assets/css/reset.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../assets/css/common.css" rel="stylesheet" type="text/css" />
+<link href="../assets/css/slide/index.css" rel="stylesheet" type="text/css" media="all" />
+
+<script type="text/javascript" src="../assets/js/jquery.js"></script>
+<script type='text/javascript' src='../assets/js/slide/jquery.js'></script>
+<script type="text/javascript" src="../assets/js/slide/jquery.min.js"></script>
+<script type="text/javascript" src="../assets/js/slide/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="../assets/js/slide/slides.min.jquery.js"></script>
+<script type="text/javascript" src="../assets/js/slide/default.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $('#slides').slides({
+            preload: true,
+            preloadImage: '../assets/images/slide/loading.gif',
+            play: 5000,
+            pause: 100,
+            hoverPause: true
+        });
+    });
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-40142140-1', 'osakafu-u.ac.jp');
+    ga('send', 'pageview');
+</script>
+
+<script type="text/javascript" src="../assets/js/jquery.cheat-code.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $(document).cheatCode({
+            code: '65,73,66,65',
+            activated: function () {
+                location.href = "http://www.cs.osakafu-u.ac.jp/ci/Member/personal/aiba/profile.php";
+            }
+        });
+    });
+</script>
+
+<script type="text/javascript" src="../assets/js/common.js"></script>
+<script type="text/javascript">
+   // <!--
+   //    function addstring() {
+   //       document.forms[0].q.value = 'site:www.cs.osakafu-u.ac.jp/ci/ ' + document.forms[0].q.value;
+   //       return true;
+   //    }
+   // //
+   // -->
+</script>
