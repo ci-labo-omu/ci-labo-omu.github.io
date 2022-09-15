@@ -7,6 +7,6 @@
 
 {% for slide in slides offset: 1 %}
 <a href="{{ slide.link }}">
-    <img src="{{ slide.image }}" width="960" height="381" alt="Slide {{ forloop.index | plus: 2}}" />
+    <img src="{{ slide.image }}" width="960" height="381" alt="Slide {{ forloop.index | plus: 2 }}" />
 </a>
 {% endfor %}
