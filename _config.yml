@@ -5,22 +5,12 @@ collections:
   pages_en:
     output: true
     permalink: /en/:name
-    order:
-      - member.md
-      - download.md
+    sort_by: order
   
   pages_ja:
     output: true
     permalink: /ja/:name
-    order:
-      - news.md
-      - member.md
-      - labo_outline.md
-      - b3_student.md
-      - download.md
-      - students_activity.md
-      - teachers_activity.md
-      - access.md
+    sort_by: order
 
 defaults:
   -
