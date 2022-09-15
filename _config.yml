@@ -16,7 +16,7 @@ defaults:
       path: ""
       type: "pages_en"
     values:
-      layout: "default"
+      layout: "page"
       lang: "en"
       linked_page: "/ja/"
 
@@ -25,6 +25,6 @@ defaults:
       path: ""
       type: "pages_ja"
     values:
-      layout: "default"
+      layout: "page"
       lang: "ja"
       linked_page: "/en/"
