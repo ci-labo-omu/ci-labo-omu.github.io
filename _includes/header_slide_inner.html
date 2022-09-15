@@ -1,11 +1,12 @@
-<a href="{{ include.arg[0].link }}">
+{% assign slides = include.arg %}
+<a href="{{ slides[0].link }}">
     <div style="position:absolute; left:300px;">
-        <img src="{{ include.arg[0].image }}" alt="Slide 1">
+        <img src="{{ slides[0].image }}" alt="Slide 1">
     </div>
 </a>
 
-{% for slide in include.arg offset: 1 %}
+{% for slide in slides offset: 1 %}
 <a href="{{ slide.link }}">
-    <img src="{{ slide.image }}" width="960" height="381" alt="Slide {{ forloop.index | plus 2}}" />
+    <img src="{{ slide.image }}" width="960" height="381" alt="Slide {{ forloop.index | plus: 2}}" />
 </a>
 {% endfor %}

@@ -1,5 +1,5 @@
 en:
-  - link: https://ci-labo-omu.github.io/
+  - link: /en/
     name: Computational Intelligence Labo.
   
   - link: https://www.omu.ac.jp/en/
@@ -13,7 +13,7 @@ en:
 
 
 ja:
-  - link: https://ci-labo-omu.github.io/
+  - link: /ja/
     name: 計算知能研究室
 
   - link: https://www.omu.ac.jp
