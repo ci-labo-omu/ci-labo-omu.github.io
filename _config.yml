@@ -5,12 +5,10 @@ collections:
   pages_en:
     output: true
     permalink: /en/:name
-    sort_by: order
   
   pages_ja:
     output: true
     permalink: /ja/:name
-    sort_by: order
 
 defaults:
   -
