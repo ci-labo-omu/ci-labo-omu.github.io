@@ -1,3 +1,3 @@
 ---
-redirect_to: en/test.html
+redirect_to: en/download
 ---

@@ -1,2 +1,42 @@
 plugins:
   - jekyll-redirect-from
+
+collections:
+  pages_en:
+    output: true
+    permalink: /en/:name
+    order:
+      - member.md
+      - download.md
+  
+  pages_ja:
+    output: true
+    permalink: /ja/:name
+    order:
+      - news.md
+      - member.md
+      - labo_outline.md
+      - b3_student.md
+      - download.md
+      - students_activity.md
+      - teachers_activity.md
+      - access.md
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages_en"
+    values:
+      layout: "default"
+      lang: "en"
+      linked_page: "/ja/"
+
+  -
+    scope:
+      path: ""
+      type: "pages_ja"
+    values:
+      layout: "default"
+      lang: "ja"
+      linked_page: "/en/"

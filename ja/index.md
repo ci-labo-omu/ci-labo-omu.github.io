@@ -1,3 +1,3 @@
 ---
-redirect_to: ja/test.html
+redirect_to: ja/news
 ---
