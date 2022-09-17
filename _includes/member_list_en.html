@@ -3,7 +3,7 @@
     {% assign members = site.members | where: "position.en", pos %}
 
     {% if members and members.size != 0 %}
-        <dt><b>{{ pos }}</b></dt>
+        <dt><span><b>{{ pos }}</b></span></dt>
 
         <dd>
         {% for mem in members %}
