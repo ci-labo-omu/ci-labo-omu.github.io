@@ -1,0 +1,32 @@
+{% for position in site.data.positions %}
+{% assign pos = position.ja | default: position %}
+{% assign members = site.members | where: "position.ja", pos %}
+
+{% if members and members.size != 0 %}
+<dt><b>{{ pos }}</b></dt>
+
+<dd>
+      {% for mem in members %}
+
+      <div>
+            {% if mem.external_link and mem.external_link != '' %}
+
+            <a href="{{ mem.external_link.en }}" class="name" style="color:#0089a1;text-decoration:underline;"
+                  title="{{ mem.hiragana }}">{{ mem.name.ja }}</a> ({{ mem.email }})
+
+            {% else %}
+
+            <a href="{{ mem.url }}" class="name" title="{{ mem.hiragana }}">{{ mem.name.ja }}</a> ({{ mem.email }})
+            
+            {% endif %}
+      </div>
+
+      {% if mem.room and mem.room.ja != '' %}
+      <div>
+            居室: {{ mem.room.ja }}
+      </div>
+      {% endif %}
+      {% endfor %}
+</dd>
+{% endif %}
+{% endfor %}
