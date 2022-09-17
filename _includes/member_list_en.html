@@ -1,0 +1,33 @@
+{% for position in site.data.positions %}
+    {% assign pos = position.en | default: position %}
+    {% assign members = site.members | where: "position.en", pos %}
+
+    {% if members and members.size != 0 %}
+        <dt><b>{{ pos }}</b></dt>
+
+        <dd>
+        {% for mem in members %}
+
+            <div>
+                {% if mem.external_link and mem.external_link != '' %}
+                    <a href="{{ mem.external_link.en }}" class="name"
+                    style="color:#0089a1;text-decoration:underline;">{{ mem.name.en }}</a> ({{ mem.email }})
+                {% else %}
+                    {{ mem.name.en }} ({{ mem.email }})
+                {% endif %}
+            </div>
+
+            {% if mem.room and mem.room.en != '' %}
+                <div>
+                    Room: {{ mem.room.en }}
+                </div>
+            {% endif %}
+
+            {% if mem.name.en == "Hisao Ishibuchi" %}
+                <br>
+            {% endif %}
+            
+        {% endfor %}
+        </dd>
+    {% endif %}
+{% endfor %}

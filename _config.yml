@@ -10,6 +10,10 @@ collections:
     output: true
     permalink: /ja/:name
 
+  members:
+    output: true
+    permalink: /ja/member/:slug
+
 defaults:
   -
     scope:
@@ -26,5 +30,14 @@ defaults:
       type: "pages_ja"
     values:
       layout: "page"
+      lang: "ja"
+      linked_page: "/en/"
+
+  -
+    scope:
+      path: ""
+      type: "members"
+    values:
+      layout: "member"
       lang: "ja"
       linked_page: "/en/"

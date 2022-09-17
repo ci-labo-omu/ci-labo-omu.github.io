@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h3>{{ page.name.ja }}<br>{{ page.name.en }}</h3>
+
+{% if page.portrait and page.portrait != '' %}
+<div align="center">
+    <img src="{{ page.portrait }}" height ="250" />
+</div>
+{% endif %}
+
+{{ content }}
