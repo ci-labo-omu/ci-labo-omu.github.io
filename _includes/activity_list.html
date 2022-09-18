@@ -1,5 +1,5 @@
 {% assign act_list = include.act_list %}
-{% assign years = act_list | map: "year" | uniq %}
+{% assign years = act_list | map: "year" | uniq | sort | reverse %}
 
 {% for y in years %}
     {% assign act_list_y = act_list | where: "year", y %}
