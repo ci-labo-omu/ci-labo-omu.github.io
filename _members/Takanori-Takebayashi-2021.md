@@ -8,7 +8,7 @@ name:
     ja: 竹林 章宜
 
 email: sdb01074@st.
-portrait: /assets/images/member/8g_Taro.png
+portrait: 
 hiragana: たけばやし たかのり
 slug: takebayashi
 ---

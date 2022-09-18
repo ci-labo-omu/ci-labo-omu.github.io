@@ -8,7 +8,7 @@ name:
     ja: 西川 毅
 
 email: sdb01110@st.
-portrait: /assets/images/member/8g_Taro.png
+portrait: 
 hiragana: にしかわ つよし
 slug: nishikawa
 ---

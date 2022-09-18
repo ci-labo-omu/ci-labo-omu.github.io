@@ -8,8 +8,8 @@ name:
     ja: トウ　昊予
 
 email: szb01101@st.
-portrait: /assets/images/member/8g_Taro.png
-hiragana: とう はおゆ
+portrait: 
+hiragana: Haoyu Deng
 slug: haoyu
 ---
 

@@ -8,8 +8,8 @@ name:
     ja: Eric Vernon
 
 email: sn22864k@st.
-portrait: /assets/images/member/8g_Taro.png
-hiragana: えりっく ゔぁーのん
+portrait: 
+hiragana: Eric Vernon
 slug: Eric
 ---
 

@@ -8,7 +8,7 @@ name:
     ja: 中川 夢斗
 
 email: sb22676z@st.
-portrait: /assets/images/member/8g_Taro.png
+portrait: 
 hiragana: なかがわ ゆうと
 slug: nakagawa
 ---
