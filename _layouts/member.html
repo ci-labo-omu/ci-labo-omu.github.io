@@ -2,7 +2,13 @@
 layout: default
 ---
 
-<h3>{{ page.name.ja }}<br>{{ page.name.en }}</h3>
+<h3>
+{% if page.name.ja == page.name.en %}
+{{ page.name.en }}
+{% else %}
+{{ page.name.ja }}<br>{{ page.name.en }}
+{% endif %}
+</h3>
 
 {% if page.portrait and page.portrait != '' %}
 <div align="center">
