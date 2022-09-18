@@ -1,0 +1,14 @@
+{% assign act_list = include.act_list %}
+{% assign years = act_list | map: "year" | uniq %}
+
+{% for y in years %}
+    {% assign act_list_y = act_list | where: "year", y %}
+
+    <h5>{{ y }}年度</h5>
+    {% for act in act_list_y %}
+    <li>
+        {{ act.entry }}
+    </li>
+    {% endfor %}
+    <br>
+{% endfor %}
