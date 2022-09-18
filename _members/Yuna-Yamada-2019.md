@@ -15,11 +15,19 @@ slug: yamada
 
 #### 趣味
 音楽を聴くこと・バンドのライブに行くこと
+<br><br>
+
 #### 特技
 どこでも寝られること
-#### 研究内容
-階層型クラスタリング  
+<br><br>
 
-・Y. Yamada, N. Masuyama, N. Amako, Y. Nojima, C. K. Loo, and H. Ishibuchi, “Divisive Hierarchical Clustering Based on Adaptive Resonance Theory,” Proc. of International Symposium on Community-centric Systems 2020 (CcS2020), Tokyo, Japan, September 23-26, 2020.  
+#### 研究内容
+階層型クラスタリング
+<br><br>
+
+・Y. Yamada, N. Masuyama, N. Amako, Y. Nojima, C. K. Loo, and H. Ishibuchi, “Divisive Hierarchical Clustering Based on Adaptive Resonance Theory,” Proc. of International Symposium on Community-centric Systems 2020 (CcS2020), Tokyo, Japan, September 23-26, 2020.
+<br><br>
+
 #### ひとこと
 これからよろしくお願いします．
+<br><br>

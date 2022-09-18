@@ -4,19 +4,23 @@ position:
     ja: B 4
 
 name:
-    en: Haoyu Tou
+    en: Haoyu Deng
     ja: トウ　昊予
 
 email: szb01101@st.
-portrait: 
+portrait:
 hiragana: Haoyu Deng
 slug: haoyu
 ---
 
 #### 趣味
+<br><br>
 
 #### 特技
+<br><br>
 
 #### 研究内容
+<br><br>
 
 #### ひとこと
+<br><br>
