@@ -13,7 +13,7 @@
          <h4>{{ type.display }}</h4>
         <br />
         {% for paper in papers %}
-            {{ paper.content }}{% if paper.is_new %}<img src="new.gif">{% endif %}
+            {{ paper.content }}{% if paper.is_new %}<img src="/assets/images/dl_paper/new.gif">{% endif %}
             <br><br>
         {% endfor %}
     {% endif %}
