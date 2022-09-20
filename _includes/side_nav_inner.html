@@ -1,6 +1,6 @@
-{% assign entries = include.arg | sort: 'order' %}
+{% assign entries = include.arg %}
 <ul>
     {% for entry in entries %}
-    <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+    <li><a href="{{ entry.url }}">{{ entry.menu_title }}</a></li>
     {% endfor %}
 </ul>
