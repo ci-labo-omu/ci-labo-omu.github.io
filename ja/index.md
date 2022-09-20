@@ -1,3 +1,3 @@
 ---
-redirect_to: ja/news
+redirect_to: ja/news/
 ---

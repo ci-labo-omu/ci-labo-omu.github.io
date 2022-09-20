@@ -1,9 +1,9 @@
 <div class="section">
     {% if page.lang == "en" %}
     <h3>MENU</h3>
-    {% include side_nav_inner.html arg=site.pages_en %}
+    {% include side_nav_inner.html arg=site.data.page_list.en %}
     {% else %}
     <h3>メニュー</h3>
-    {% include side_nav_inner.html arg=site.pages_ja %}
+    {% include side_nav_inner.html arg=site.data.page_list.ja %}
     {% endif %}
  </div><!-- /.section -->

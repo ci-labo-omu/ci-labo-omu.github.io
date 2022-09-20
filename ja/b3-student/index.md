@@ -1,6 +1,6 @@
 ---
+layout: page
 title: 3回生向けページ
-order: 4
 ---
 
 日本語ページ

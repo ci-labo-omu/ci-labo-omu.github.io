@@ -2,14 +2,6 @@ plugins:
   - jekyll-redirect-from
 
 collections:
-  pages_en:
-    output: true
-    permalink: /en/:name
-  
-  pages_ja:
-    output: true
-    permalink: /ja/:name
-
   members:
     output: true
     permalink: /ja/member/:slug
@@ -17,19 +9,15 @@ collections:
 defaults:
   -
     scope:
-      path: ""
-      type: "pages_en"
+      path: "en"
     values:
-      layout: "page"
       lang: "en"
       linked_page: "/ja/"
 
   -
     scope:
-      path: ""
-      type: "pages_ja"
+      path: "ja"
     values:
-      layout: "page"
       lang: "ja"
       linked_page: "/en/"
 

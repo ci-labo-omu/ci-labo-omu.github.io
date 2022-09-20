@@ -4,7 +4,7 @@
     <h3>{{ include.menu_title }}</h3>
     <ul>
     {% for entry in include.entries limit: include.lim_num offset: continue %}
-    <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+    <li><a href="{{ entry.url }}">{{ entry.menu_title }}</a></li>
     {% endfor %}
     </ul>
 </div>
