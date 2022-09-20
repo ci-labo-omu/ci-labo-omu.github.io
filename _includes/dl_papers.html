@@ -6,7 +6,7 @@
 <br><br>
 
 {% for type in site.data.paper_types %}
-    {% assign pepers = site.papers | where: "type", type.type | sort: "date" | reverse %}
+    {% assign papers = site.papers | where: "type", type.type | sort: "date" | reverse %}
 
     {% if papers and papers.size != 0 %}
         <br />
