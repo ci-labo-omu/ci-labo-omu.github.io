@@ -1,0 +1,41 @@
+en:
+  -
+    menu_title: Member
+    url: /en/member
+  
+  -
+    memu_title: Downloadable Papers
+    url: /en/download
+
+ja:
+  -
+    memu_title: ニュース
+    url: /ja/news
+  
+  -
+    memu_title: メンバー
+    url: /ja/member
+
+  -
+    memu_title: 研究室紹介
+    url: /ja/labo_outline
+  
+  -
+    memu_title: 3回生向けページ
+    url: /ja/b3_student
+
+  -
+    memu_title: Downloadable Papers
+    url: /ja/download
+
+  -
+    memu_title: 研究室の学生の活躍
+    url: /ja/students-activity
+  
+  -
+    memu_title: 研究室の教員の活躍
+    url: /ja/teachers-activity
+
+  -
+    memu_title: 研究室へのアクセス
+    url: /ja/access
