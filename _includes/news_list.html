@@ -1,0 +1,8 @@
+{% for post in paginator.posts %}
+<dt><span>{{ post.jdate }}</span></dt>
+<dd>
+    <div>
+       <A href="{{ post.url }}">{{ post.title }}</A><br>
+    </div>
+ </dd>
+{% endfor %}

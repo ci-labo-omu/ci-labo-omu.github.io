@@ -1,5 +1,6 @@
 plugins:
   - jekyll-redirect-from
+  - jekyll-paginate
 
 collections:
   members:
@@ -24,8 +25,20 @@ defaults:
   -
     scope:
       path: ""
+      type: "posts"
+    values:
+      layout: "news"
+      lang: "ja"
+      linked_page: "/en/"
+
+  -
+    scope:
+      path: ""
       type: "members"
     values:
       layout: "member"
       lang: "ja"
       linked_page: "/en/"
+
+paginate: 20
+paginate_path: "/ja/news/page:num/"
