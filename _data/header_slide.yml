@@ -1,26 +1,26 @@
 en: 
-  - link: /en/download
+  - link: /en/download/
     image: /assets/images/header/slide/CI_Lab_Image.gif
 
   - link: https://yusuke-nojima.github.io/index.html
     image: /assets/images/header/slide/header_1.png
 
-  - link: /en/member
+  - link: /en/member/
     image: /assets/images/header/slide/header_3.png
 
 
 ja:
-  - link: /ja/labo-outline
+  - link: /ja/labo-outline/
     image: /assets/images/header/slide/CI_Lab_Image.gif
 
-  - link: /ja/b3-student
+  - link: /ja/b3-student/
     image: /assets/images/header/slide/header_1.png
 
-  - link: /ja/news
+  - link: /ja/news/
     image: /assets/images/header/slide/header_2.png
 
-  - link: /ja/member
+  - link: /ja/member/
     image: /assets/images/header/slide/header_3.png
 
-  - link: /ja/students-activity
+  - link: /ja/students-activity/
     image: /assets/images/header/slide/header_4.png
