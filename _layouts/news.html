@@ -1,0 +1,8 @@
+---
+layout: default
+---
+<h3>{{ page.jdate }}<br>{{ page.title }}</h3>
+
+{{ content }}
+
+<a href="/ja/news/{% if paginator.page > 1 %}page{{ paginator.page }}/{% endif %}">ニュース一覧に戻る</a>

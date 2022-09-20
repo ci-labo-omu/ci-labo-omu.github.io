@@ -1,5 +1,6 @@
 plugins:
   - jekyll-redirect-from
+  - jekyll-paginate
 
 collections:
   members:
@@ -29,3 +30,6 @@ defaults:
       layout: "member"
       lang: "ja"
       linked_page: "/en/"
+
+paginate: 3
+paginate_path: "/ja/news/page:num/"
