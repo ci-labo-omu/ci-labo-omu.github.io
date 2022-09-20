@@ -1,0 +1,20 @@
+<font color="red" size="4">
+    If you want other papers, please contact 
+    <a href="/hisaoi/" target="right">me</a>
+     by e-mail.
+</font>
+<br><br>
+
+{% for type in site.data.paper_types %}
+    {% assign pepers = site.papers | where: "type", type.type | sort: "date" | reverse %}
+
+    {% if papers and papers.size != 0 %}
+        <br />
+         <h4>{{ type.display }}</h4>
+        <br />
+        {% for paper in papers %}
+            {{ paper.content }}{% if paper.is_new %}<img src="new.gif">{% endif %}
+            <br><br>
+        {% endfor %}
+    {% endif %}
+{% endfor %}
