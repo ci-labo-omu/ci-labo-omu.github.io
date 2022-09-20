@@ -6,6 +6,9 @@ collections:
   members:
     output: true
     permalink: /ja/member/:slug
+  
+  papers:
+    output: false
 
 defaults:
   -

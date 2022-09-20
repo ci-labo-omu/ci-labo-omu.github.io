@@ -1,0 +1,15 @@
+- 
+  type: accepted
+  display: Accepted
+
+- 
+  type: open
+  display: Open Access Paper (IEEE Trans.)
+
+- 
+  type: book
+  display: Book Chapters for Edited Books
+
+- 
+  type: journal
+  display: Journal Papers
