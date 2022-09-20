@@ -40,5 +40,5 @@ defaults:
       lang: "ja"
       linked_page: "/en/"
 
-paginate: 3
+paginate: 20
 paginate_path: "/ja/news/page:num/"
