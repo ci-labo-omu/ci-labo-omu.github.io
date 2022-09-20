@@ -25,6 +25,15 @@ defaults:
   -
     scope:
       path: ""
+      type: "posts"
+    values:
+      layout: "news"
+      lang: "ja"
+      linked_page: "/en/"
+
+  -
+    scope:
+      path: ""
       type: "members"
     values:
       layout: "member"
