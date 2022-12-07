@@ -9,4 +9,4 @@ title: 木下君が SCIS&ISIS 2022 で Young Researcher Award を受賞しまし
 
 =出典情報=
 
-T.Kinoshita, N. Masuyama, Y. Nojima, "Search Process Analysis of Multiobjective Evolutionary Algorithms Using Convergence-Diversity Diagram,'' Proc. of 12th International Conference on Soft Computing and Inteligent Systems and 23rd International Symposium on Advanced Inteligent Systems, inpress, Ise-Shima, Mie, Japan, Nov. 29 - Dec. 2, 2022.
+T.Kinoshita, N. Masuyama, Y. Nojima, "Search Process Analysis of Multiobjective Evolutionary Algorithms Using Convergence-Diversity Diagram,'' Proc. of 12th International Conference on Soft Computing and Inteligent Systems and 23rd International Symposium on Advanced Inteligent Systems, 6pages, Ise-Shima, Mie, Japan, Nov. 29 - Dec. 2, 2022.
