@@ -1,7 +1,7 @@
 ---
 position:
-    en: Assistant Professor
-    ja: 助教
+    en: Associate Professor
+    ja: 准教授
 
 name:
     en: Naoki Masuyama
