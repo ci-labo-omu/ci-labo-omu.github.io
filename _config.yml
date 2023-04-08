@@ -45,3 +45,4 @@ defaults:
 
 paginate: 20
 paginate_path: "/ja/news/page:num/"
+future: true
