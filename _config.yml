@@ -1,6 +1,7 @@
 plugins:
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-sitemap
 
 collections:
   members:
