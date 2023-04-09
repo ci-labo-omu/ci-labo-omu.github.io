@@ -4,7 +4,7 @@
 
 {%- if y >= 2020 -%}
     {%- assign era = "令和" -%}
-    {%- assign jy = y | minus: 2018 | prepend: '00' | slice: -2, 2 -%}
+    {%- assign jy = y | minus: 2018 -%}
 
 {%- elsif y == 2019 and m >= 5 -%}
     {%- assign era = "令和" -%}
@@ -12,10 +12,10 @@
 
 {%- else -%}
     {%- assign era = "平成" -%}
-    {%- assign jy = y | minus: 1988 | prepend: '00' | slice: -2, 2 -%}
+    {%- assign jy = y | minus: 1988 -%}
 
 {%- endif -%}
 
 {%- assign ej = era | append: jy -%}
 
-{{ ej }}年{{ m | prepend: '00' | slice: -2, 2 }}月{{ d | prepend: '00' | slice: -2, 2 }}日
+{{ ej }}年{{ m }}月{{ d }}日
