@@ -1,6 +1,6 @@
-{%- assign y = include.year -%}
-{%- assign m = include.month -%}
-{%- assign d = include.day -%}
+{%- assign y = include.year | plus: 0 -%}
+{%- assign m = include.month | plus: 0 -%}
+{%- assign d = include.day | plus: 0 -%}
 
 {%- if y >= 2020 -%}
     {%- assign era = "令和" -%}
