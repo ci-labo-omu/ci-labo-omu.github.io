@@ -1,9 +1,6 @@
 {% for post in paginator.posts %}
-{%- assign y = post.date | date: "%Y" -%}
-{%- assign m = post.date | date: "%m" -%}
-{%- assign d = post.date | date: "%d" -%}
 <dt><span>
-   {%- include jdate.html year=y month=m day=d -%}
+   {%- include jdate.html date=post.date -%}
 </span></dt>
 <dd>
     <div>
