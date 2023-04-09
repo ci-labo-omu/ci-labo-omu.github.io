@@ -1,5 +1,4 @@
 ---
-jdate: 平成24年8月
 title: MCDM Newsletterに研究室紹介が掲載
 ---
 

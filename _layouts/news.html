@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<h3>{{ page.jdate }}<br>{{ page.title }}</h3>
+
+<h3>{%- include jdate.html date=page.date -%}<br>{{ page.title }}</h3>
 
 {{ content }}
 
