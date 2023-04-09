@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-<h3>{{ page.jdate }}<br>{{ page.title }}</h3>
+{%- assign y = page.date | date: "%Y" -%}
+{%- assign m = page.date | date: "%m" -%}
+{%- assign d = page.date | date: "%d" -%}
+<h3>{%- include jdate.html year=y month=m day=d -%}<br>{{ page.title }}</h3>
 
 {{ content }}
 
