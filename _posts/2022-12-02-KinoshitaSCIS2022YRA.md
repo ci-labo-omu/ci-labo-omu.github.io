@@ -1,5 +1,4 @@
 ---
-jdate: 令和4年12月2日
 title: 木下君が SCIS&ISIS 2022 で Young Researcher Award を受賞しました
 ---
 

@@ -1,6 +1,8 @@
 plugins:
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 collections:
   members:
@@ -45,3 +47,4 @@ defaults:
 
 paginate: 20
 paginate_path: "/ja/news/page:num/"
+future: true
