@@ -7,24 +7,24 @@ name:
     en: Taiki Torigoe
     ja: 鳥越 大貴
 
-email: email@st.
+email: seb01092@st.
 portrait: 
 hiragana: とりごえ たいき
 slug: torigoe
 ---
 
 #### 趣味
-Hobby
+動物を見ること、ゲーム
 <br><br>
 
 #### 特技
-Talent
+バスケットボール
 <br><br>
 
 #### 研究内容
-Study
+
 <br><br>
 
 #### ひとこと
-Comment
+頑張ります！
 <br><br>

@@ -7,24 +7,24 @@ name:
     en: Yuta Ougino
     ja: 扇野 雄太
 
-email: email@st.
+email: seb01022@st.
 portrait: 
 hiragana: おうぎの ゆうた
 slug: ougino
 ---
 
 #### 趣味
-Hobby
+テニス、カラオケ
 <br><br>
 
 #### 特技
-Talent
+作曲
 <br><br>
 
 #### 研究内容
-Study
+
 <br><br>
 
 #### ひとこと
-Comment
+遅刻しないように頑張ります
 <br><br>

@@ -7,24 +7,25 @@ name:
     en: Aayato Tomofuji
     ja: 友藤 彩人
 
-email: email@st.
+email: seb01090@st.
 portrait: 
 hiragana: ともふじ あやと
 slug: tomofuji
 ---
 
 #### 趣味
-Hobby
+ライブを見に行くこと
+サイクリング
 <br><br>
 
 #### 特技
-Talent
+ギター
 <br><br>
 
 #### 研究内容
-Study
+
 <br><br>
 
 #### ひとこと
-Comment
+少しずつ頑張ります
 <br><br>

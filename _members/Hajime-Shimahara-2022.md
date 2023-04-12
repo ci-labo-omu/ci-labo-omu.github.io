@@ -7,24 +7,24 @@ name:
     en: Hajime Shimahara
     ja: 島原 基
 
-email: email@st.
+email: seb01064@st.
 portrait: 
 hiragana: しまはら はじめ
 slug: shimahara
 ---
 
 #### 趣味
-Hobby
+読書、ゲーム(valorant)
 <br><br>
 
 #### 特技
-Talent
+クイズ
 <br><br>
 
 #### 研究内容
-Study
+
 <br><br>
 
 #### ひとこと
-Comment
+地道に頑張ります！
 <br><br>

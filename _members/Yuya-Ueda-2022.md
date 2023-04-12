@@ -7,24 +7,24 @@ name:
     en: Yuya Ueda
     ja: 上田 裕也
 
-email: email@st.
+email: seb01016@st.
 portrait: 
 hiragana: うえだ ゆうや
 slug: ueda
 ---
 
 #### 趣味
-Hobby
+サッカー
 <br><br>
 
 #### 特技
-Talent
+なし
 <br><br>
 
 #### 研究内容
-Study
+
 <br><br>
 
 #### ひとこと
-Comment
+頑張ります！
 <br><br>
