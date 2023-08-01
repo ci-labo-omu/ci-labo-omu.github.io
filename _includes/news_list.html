@@ -1,5 +1,7 @@
 {% for post in paginator.posts %}
-<dt><span>{{ post.jdate }}</span></dt>
+<dt><span>
+   {%- include jdate.html date=post.date -%}
+</span></dt>
 <dd>
     <div>
        <A href="{{ post.url }}">{{ post.title }}</A><br>
