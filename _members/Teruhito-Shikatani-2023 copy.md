@@ -1,24 +1,24 @@
 ---
 position:
-    en: B 4
-    ja: B 4
+    en: B 3
+    ja: B 3
 
 name:
-    en: Yuya Ueda
-    ja: 上田 裕也
+    en: Teruhito Shikatani 
+    ja: 鹿谷 照仁
 
 email: email@st.
 portrait: 
-hiragana: うえだ ゆうや
-slug: ueda
+hiragana: しかたに てるひと
+slug: shikatani
 ---
 
 #### 趣味
-サッカー
+
 <br><br>
 
 #### 特技
-なし
+
 <br><br>
 
 #### 研究内容
@@ -26,5 +26,5 @@ slug: ueda
 <br><br>
 
 #### ひとこと
-頑張ります！
+
 <br><br>

@@ -26,5 +26,5 @@ slug: tomofuji
 <br><br>
 
 #### ひとこと
-
+ぼちぼち頑張ります
 <br><br>

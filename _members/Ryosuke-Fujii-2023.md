@@ -4,27 +4,27 @@ position:
     ja: B 3
 
 name:
-    en: Yuki Azuma
-    ja: 東 祐輝
+    en: Ryosuke Fujii 
+    ja: 藤井 亮輔
 
 email: email@st.
 portrait: 
-hiragana: あずま ゆうき
-slug: azuma
+hiragana: ふじい りょうすけ
+slug: fujii
 ---
 
 #### 趣味
-Hobby
+
 <br><br>
 
 #### 特技
-Talent
+
 <br><br>
 
 #### 研究内容
-Study
+
 <br><br>
 
 #### ひとこと
-Comment
+
 <br><br>

@@ -14,11 +14,11 @@ slug: torigoe
 ---
 
 #### 趣味
-Hobby
+動物を見ること、ゲーム
 <br><br>
 
 #### 特技
-Talent
+バスケットボール
 <br><br>
 
 #### 研究内容
@@ -26,5 +26,5 @@ Study
 <br><br>
 
 #### ひとこと
-Comment
+頑張ります！
 <br><br>

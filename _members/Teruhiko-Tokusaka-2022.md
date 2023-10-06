@@ -14,17 +14,17 @@ slug: tokusaka
 ---
 
 #### 趣味
-Hobby
+
 <br><br>
 
 #### 特技
-Talent
+
 <br><br>
 
 #### 研究内容
-Study
+
 <br><br>
 
 #### ひとこと
-Comment
+
 <br><br>
