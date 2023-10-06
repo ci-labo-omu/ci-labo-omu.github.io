@@ -1,16 +1,16 @@
 ---
 position:
-    en: B 4
-    ja: B 4
+    en: B 3
+    ja: B 3
 
 name:
-    en: Hajime Shimahara
-    ja: 島原 基
+    en: Yuki Azuma
+    ja: 東 祐輝
 
 email: email@st.
 portrait: 
-hiragana: しまはら はじめ
-slug: shimahara
+hiragana: あずま ゆうき
+slug: azuma
 ---
 
 #### 趣味

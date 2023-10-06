@@ -1,4 +1,5 @@
-<font size="4" color="red">計算知能研究室では，研究室見学会を開催いたします．<br>
-    お申し込みおよび見学会の詳細については，<a href="/2023/08/01/OpenLabo2023.html">こちら</a>を参照してください．<br>
-</font>
-<br>
+<ul>
+    {% for item in include.arg %}
+    <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+    {% endfor %}
+</ul>

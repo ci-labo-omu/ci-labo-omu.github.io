@@ -1,7 +1,7 @@
 ---
 position:
-    en: M 2
-    ja: M 2
+    en: D 1
+    ja: D 1
 
 name:
     en: Takato Kinoshita
