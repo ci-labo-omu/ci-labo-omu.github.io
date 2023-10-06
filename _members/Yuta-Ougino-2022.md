@@ -14,17 +14,17 @@ slug: ougino
 ---
 
 #### 趣味
-Hobby
+テニス、カラオケ
 <br><br>
 
 #### 特技
-Talent
+作曲
 <br><br>
 
 #### 研究内容
-Study
+
 <br><br>
 
 #### ひとこと
-Comment
+遅刻しないように頑張ります
 <br><br>

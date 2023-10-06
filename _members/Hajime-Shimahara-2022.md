@@ -14,17 +14,17 @@ slug: shimahara
 ---
 
 #### 趣味
-Hobby
+読書、ゲーム
 <br><br>
 
 #### 特技
-Talent
+クイズ
 <br><br>
 
 #### 研究内容
-Study
+
 <br><br>
 
 #### ひとこと
-Comment
+地道に頑張ります！
 <br><br>
