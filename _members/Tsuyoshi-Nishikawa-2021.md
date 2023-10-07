@@ -7,7 +7,7 @@ name:
     en: Tsuyoshi Nishikawa
     ja: 西川 毅
 
-email: sdb01110@st.
+email: sc23428w@st.
 portrait:
 hiragana: にしかわ つよし
 slug: nishikawa

@@ -7,7 +7,7 @@ name:
     en: Toshiki Ozasa
     ja: 小篠 豊志央
 
-email: sdb01169@st.
+email: sc23424s@st.
 portrait: /assets/images/member/ozasa.jpg
 hiragana: おざさ としき
 slug: ozasa

@@ -11,6 +11,6 @@ external_link:
     en: https://takatokinoshita.github.io/index.html
     ja: https://takatokinoshita.github.io/index_ja.html
 
-email: sbb01065@st.
+email: st23934p@st.
 hiragana: きのした たかと
 ---

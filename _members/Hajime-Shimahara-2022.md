@@ -7,7 +7,7 @@ name:
     en: Hajime Shimahara
     ja: 島原 基
 
-email: email@st.
+email: seb01090@st.
 portrait: 
 hiragana: しまはら はじめ
 slug: shimahara

@@ -1,16 +1,16 @@
 ---
 position:
-    en: B 3
-    ja: B 3
+    en: M 1
+    ja: M 1
 
 name:
-    en: Shion Takasaki
-    ja: 高崎 志遠
+    en: Fuerst Rowan
+    ja: Fuerst Rowan
 
-email: sfb01072@st.
+email: sw23253e@st.
 portrait: 
-hiragana: たかさき しおん
-slug: takasaki
+hiragana: Fuerst Rowan
+slug: rowan
 ---
 
 #### 趣味

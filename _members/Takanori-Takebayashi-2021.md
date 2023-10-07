@@ -7,7 +7,7 @@ name:
     en: Takanori Takebayashi
     ja: 竹林 章宜
 
-email: sdb01074@st.
+email: sc23284w@st.
 portrait:
 hiragana: たけばやし たかのり
 slug: takebayashi
