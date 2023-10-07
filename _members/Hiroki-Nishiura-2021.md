@@ -7,7 +7,7 @@ name:
     en: Hiroki Nishiura
     ja: 西浦 弘樹
 
-email: sdb01108@st.
+email: sc23471u@st.
 portrait: /assets/images/member/nishiura.png
 hiragana: にしうら ひろき
 slug: nishiura

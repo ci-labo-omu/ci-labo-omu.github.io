@@ -7,7 +7,7 @@ name:
     en: Yuya Ueda
     ja: 上田 裕也
 
-email: email@st.
+email: seb01016@st.
 portrait: 
 hiragana: うえだ ゆうや
 slug: ueda

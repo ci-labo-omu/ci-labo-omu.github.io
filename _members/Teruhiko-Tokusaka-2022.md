@@ -7,7 +7,7 @@ name:
     en: Teruhiko Tokusaka
     ja: 徳坂 光彦
 
-email: email@st.
+email: seb01088@st.
 portrait: 
 hiragana: とくさか てるひこ
 slug: tokusaka

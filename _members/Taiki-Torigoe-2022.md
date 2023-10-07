@@ -7,7 +7,7 @@ name:
     en: Taiki Torigoe
     ja: 鳥越 大貴
 
-email: email@st.
+email: seb01092@st.
 portrait: 
 hiragana: とりごえ たいき
 slug: torigoe

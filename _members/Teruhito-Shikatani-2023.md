@@ -7,7 +7,7 @@ name:
     en: Teruhito Shikatani 
     ja: 鹿谷 照仁
 
-email: email@st.
+email: sfb01062@st.
 portrait: 
 hiragana: しかたに てるひと
 slug: shikatani

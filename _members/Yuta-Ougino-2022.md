@@ -7,7 +7,7 @@ name:
     en: Yuta Ougino
     ja: 扇野 雄太
 
-email: email@st.
+email: seb01022@st.
 portrait: 
 hiragana: おうぎの ゆうた
 slug: ougino

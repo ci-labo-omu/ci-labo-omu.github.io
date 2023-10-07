@@ -7,7 +7,7 @@ name:
     en: Kazuki Tashiro
     ja: 田代 一貴
 
-email: sdb01075@st.
+email: sc23198a@st.
 portrait: /assets/images/member/tashiro.png
 hiragana: たしろ かずき
 slug: tashiro

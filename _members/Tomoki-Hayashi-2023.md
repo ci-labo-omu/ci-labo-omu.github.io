@@ -7,7 +7,7 @@ name:
     en: Tomoki Hayashi 
     ja: 林 智輝
 
-email: email@st.
+email: seb01107@st.
 portrait: 
 hiragana: はやし ともき
 slug: hayashi
