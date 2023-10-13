@@ -22,7 +22,7 @@ slug: konishi
 <br><br>
 
 #### 研究内容
-ファジィ識別器設計
+XAI
 <br><br>
 
 #### ひとこと
