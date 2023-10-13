@@ -7,14 +7,14 @@ name:
     en: Takeru Konishi
     ja: 小西 豪
 
-email: sdb01047@st.
+email: sc23197z@st.
 portrait: /assets/images/member/konishi.png
 hiragana: こにし たける
 slug: konishi
 ---
 
 #### 趣味
-音楽を聴く，スポーツ観戦
+スポーツ観戦，音楽
 <br><br>
 
 #### 特技
@@ -22,8 +22,9 @@ slug: konishi
 <br><br>
 
 #### 研究内容
+ファジィ識別器設計
 <br><br>
 
 #### ひとこと
-一所懸命頑張ります！
+頑張ります！
 <br><br>
