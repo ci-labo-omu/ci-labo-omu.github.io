@@ -13,6 +13,10 @@ hiragana: こにし たける
 slug: konishi
 ---
 
+#### HP
+    en: https://takerukonishi.github.io/index.html
+    ja: https://takerukonishi.github.io/index_ja.html
+
 #### 趣味
 スポーツ観戦，音楽鑑賞
 <br><br>
