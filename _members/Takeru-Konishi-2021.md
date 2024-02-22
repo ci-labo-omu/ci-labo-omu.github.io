@@ -16,6 +16,7 @@ slug: konishi
 #### HP
 - [English](https://takerukonishi.github.io/index.html)
 - [Japanese](https://takerukonishi.github.io/index_ja.html)
+<br><br>
 
 #### 趣味
 スポーツ観戦，音楽鑑賞
