@@ -1,7 +1,7 @@
 ---
 position:
-    en: B 4
-    ja: B 4
+    en: M 1
+    ja: M 1
 
 name:
     en: Ayato Tomofuji
