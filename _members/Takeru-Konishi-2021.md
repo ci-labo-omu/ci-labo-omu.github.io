@@ -7,29 +7,10 @@ name:
     en: Takeru Konishi
     ja: 小西 豪
 
+external_link:
+    en: https://takerukonishi.github.io/index.html
+    ja: https://takerukonishi.github.io/index_ja.html
+
 email: sc23197z@st.
-portrait: /assets/images/member/konishi.png
 hiragana: こにし たける
-slug: konishi
 ---
-
-#### HP
-- [English](https://takerukonishi.github.io/index.html)
-- [Japanese](https://takerukonishi.github.io/index_ja.html)
-<br><br>
-
-#### 趣味
-スポーツ観戦，音楽鑑賞
-<br><br>
-
-#### 特技
-テニス，野球
-<br><br>
-
-#### 研究内容
-ファジィ識別器設計
-<br><br>
-
-#### ひとこと
-頑張ります！
-<br><br>
