@@ -5,7 +5,7 @@ position:
 
 name: 
     en: Ono Renji
-    ja: 小野　鍛司
+    ja: 小野　錬司
 
 email: sy22348s@st.
 portrait: 
