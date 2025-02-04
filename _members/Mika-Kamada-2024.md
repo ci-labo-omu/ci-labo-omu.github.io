@@ -1,7 +1,7 @@
 ---
 position:
-    en: B 4
-    ja: B 4
+    en: B 3
+    ja: B 3
 
 name: 
     en: Kamada Mika
