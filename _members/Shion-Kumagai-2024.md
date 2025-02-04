@@ -3,7 +3,7 @@ position:
     en: B 4
     ja: B 4
 
-name:
+name: 
     en: Kumagai Shion
     ja: 熊谷　至穏
 

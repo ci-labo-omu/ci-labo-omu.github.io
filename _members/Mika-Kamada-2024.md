@@ -3,7 +3,7 @@ position:
     en: B 4
     ja: B 4
 
-name:
+name: 
     en: Kamada Mika
     ja: 鎌田　実花
 

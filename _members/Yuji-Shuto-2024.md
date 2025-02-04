@@ -3,7 +3,7 @@ position:
     en: B 4
     ja: B 4
 
-name:
+name: 
     en: Shuto Yuji
     ja: 首藤　優治
 

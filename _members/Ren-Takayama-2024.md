@@ -3,7 +3,7 @@ position:
     en: B 4
     ja: B 4
 
-name:
+name: 
     en: Takayama Ren
     ja: 高山　怜生
 

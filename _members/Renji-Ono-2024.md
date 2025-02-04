@@ -3,7 +3,7 @@ position:
     en: B 4
     ja: B 4
 
-name:
+name: 
     en: Ono Renji
     ja: 小野　鍛司
 
