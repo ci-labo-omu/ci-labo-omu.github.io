@@ -7,7 +7,7 @@ name:
     en: Ayato Tomofuji
     ja: 友藤 彩人
 
-email: seb01090@st.
+email: sc24909c@st.
 portrait: 
 hiragana: ともふじ あやと
 slug: tomofuji
