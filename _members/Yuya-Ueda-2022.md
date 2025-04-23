@@ -1,7 +1,7 @@
 ---
 position:
-    en: M 1
-    ja: M 1
+    en: M 2
+    ja: M 2
 
 name:
     en: Yuya Ueda
