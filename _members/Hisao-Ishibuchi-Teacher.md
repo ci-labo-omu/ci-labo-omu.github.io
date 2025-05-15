@@ -11,6 +11,6 @@ external_link:
     en: /hisaoi
     ja: /hisaoi
 
-email: hisaoi@
+email: hisao@
 hiragana: いしぶち ひさお
 ---
