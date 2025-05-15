@@ -12,8 +12,8 @@ external_link:
     ja: https://masuyama-lab.github.io/index_ja.html
 
 room:
-    en: Nakamozu Campus, B4-E409
-    ja: なかもずキャンパス, B4棟E409室
+    en: Nakamozu Campus, B4-E411
+    ja: なかもずキャンパス, B4棟E411室
 
 email: masuyama@
 hiragana: ますやま なおき
