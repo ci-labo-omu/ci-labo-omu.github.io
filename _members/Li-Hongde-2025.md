@@ -4,7 +4,7 @@ position:
     ja: M 1
 
 name:
-    en: Li Honde 
+    en: Li Hongde 
     ja: 李 泓徳
 
 email: sw25536g@st.
