@@ -1,7 +1,7 @@
 ---
 position:
     en: Intern
-    ja: 研究生
+    ja: インタ－ン
 
 name:
     en: Montalto Giovanni
