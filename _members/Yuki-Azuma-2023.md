@@ -7,7 +7,7 @@ name:
     en: Yuki Azuma
     ja: 東 祐輝
 
-email: sfb01001@st.
+email: sp25202m@st.
 portrait: 
 hiragana: あずま ゆうき
 slug: azuma
