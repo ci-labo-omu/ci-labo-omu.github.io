@@ -7,7 +7,7 @@ name:
     en: Ryosuke Fujii 
     ja: 藤井 亮輔
 
-email: sfb01126@st.
+email: sp25198m@st.
 portrait: 
 hiragana: ふじい りょうすけ
 slug: fujii
