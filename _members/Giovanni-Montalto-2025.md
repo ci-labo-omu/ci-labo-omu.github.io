@@ -4,13 +4,13 @@ position:
     ja: インターン
 
 name:
-    en: Montalto Giovanni
-    ja: Montalto Giovanni
+    en: Giovanni Montalto
+    ja: Giovanni Montalto
 
 email: sc25350d@st.
 portrait:
-hiragana: Montalto Giovanni
-slug: 
+hiragana: Giovanni Montalto
+slug: Giovanni
 ---
 
 #### 趣味
@@ -24,3 +24,4 @@ slug:
 
 #### ひとこと
 <br><br>
+
