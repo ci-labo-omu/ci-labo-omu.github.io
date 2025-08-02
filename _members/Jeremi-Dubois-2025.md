@@ -1,7 +1,7 @@
 ---
 position:
     en: Intern
-    ja: 研究生
+    ja: インターン
 
 name:
     en: Jeremi Dubois
@@ -24,3 +24,4 @@ slug: Jeremi
 
 #### ひとこと
 <br><br>
+
