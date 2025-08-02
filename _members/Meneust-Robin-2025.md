@@ -4,13 +4,13 @@ position:
     ja: M 1
 
 name:
-    en: Meneust Robin
-    ja: Meneust Robin
+    en: Robin Meneust
+    ja: Robin Meneust
 
 email: sp25615x@st.
 portrait:
-hiragana: Meneust Robin
-slug: 
+hiragana: Robin Meneust
+slug: Robin Meneust
 ---
 
 #### 趣味
@@ -24,3 +24,4 @@ slug:
 
 #### ひとこと
 <br><br>
+
