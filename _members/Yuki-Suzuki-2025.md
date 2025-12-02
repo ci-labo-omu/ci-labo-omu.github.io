@@ -4,12 +4,12 @@ position:
     ja: B 3
 
 name:
-    en: Yuta Suzuki 
+    en: Yuki Suzuki 
     ja: 鈴木　悠大
 
 email: sm23747@st.
 portrait:
-hiragana: すずき　ゆうた
+hiragana: すずき　ゆうき
 slug:
 ---
 
@@ -24,3 +24,4 @@ slug:
 
 #### ひとこと
 <br><br>
+
