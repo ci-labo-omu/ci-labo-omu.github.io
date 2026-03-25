@@ -1,5 +1,5 @@
 ---
-title: 論文が IEEE Access に採択されました.
+title: 論文が Neural Computing and Applications に採択されました.
 ---
 
 下記の論文が Neural Computing and Applications に採択されました.<br>
