@@ -1,8 +1,9 @@
 ---
 position:
+
     en: D 2
     ja: D 2
-
+    
 name:
     en: Takeru Konishi
     ja: 小西 豪
