@@ -1,4 +1,6 @@
 ---
+publishe: false
+
 position:
     en: M 2
     ja: M 2
