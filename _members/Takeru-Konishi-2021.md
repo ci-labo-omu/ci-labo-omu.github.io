@@ -1,6 +1,7 @@
 ---
 position:
-    en: D 2 
+
+    en: D 2
     ja: D 2
     
 name:
