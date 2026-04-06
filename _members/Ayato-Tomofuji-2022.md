@@ -1,5 +1,5 @@
 ---
-publishe: false
+published: false
 
 position:
     en: M 2
