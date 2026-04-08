@@ -1,4 +1,5 @@
 ---
+published: true
 position:
     en: Specially Appointed Professor
     ja: 特任教授
@@ -16,5 +17,4 @@ room:
     ja: なかもずキャンパス, B4棟E423/424室
 
 email: pickerln@
-hiragana: false
 ---
