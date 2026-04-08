@@ -6,8 +6,7 @@ position:
 
 name:
     en: Lynn Pickerln
-    ja: リン・ピッケリン
-
+    ja: Lynn Pickerln
 external_link:
     en: 
     ja: 
