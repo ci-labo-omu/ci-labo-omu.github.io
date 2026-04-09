@@ -2,7 +2,7 @@
 title: 論文が IEEE Transactions on Fuzzy Systems に採択されました．
 ---
 
-令和8年3月27日，博士後期課程2回生，小西君の論文が IEEE Transactions on Fuzzy Systems に採択されました.
+令和8年3月27日，博士後期課程1回生，小西君の論文が IEEE Transactions on Fuzzy Systems に採択されました.
 
 論文の情報は下記のとおりです.
 
