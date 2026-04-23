@@ -1,11 +1,11 @@
 ---
 position:
     en: Associate Professor
-    ja: 准教授
+    ja: 社会情報班 准教授
 
 name:
     en: Hitoshi Hohjo
-    ja: 北條 仁志　社会情報班
+    ja: 北條 仁志
 
 external_link:
     en: https://kyoiku-kenkyudb.omu.ac.jp/html/100001549_ja.html
