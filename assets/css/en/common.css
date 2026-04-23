@@ -334,33 +334,33 @@ th {
 
 /* INFORMATION CUSTOMIZE */
 #main dl.information {
-  display: grid;
-  grid-template-columns: 10em 1fr;
+  display: grid !important;
+  grid-template-columns: 10em 1fr !important;
   row-gap: 0.5em;
-  column-gap: 0;
-  margin: 0;
-  padding: 0;
-}
-
-#main dl.information dt,
-#main dl.information dd {
-  margin: 0;
-  padding: 0;
-  float: none;
-  clear: none;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 #main dl.information dt {
-  grid-column: 1;
+  grid-column: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  float: none !important;
+  clear: none !important;
+  width: auto !important;
 }
 
 #main dl.information dd {
-  grid-column: 2;
+  grid-column: 2 !important;
+  margin: 0 0 0.5em 0 !important;
+  padding: 0 !important;
+  float: none !important;
+  clear: none !important;
   background: transparent;
 }
 
 #main dl.information dd div {
-  display: block;
+  display: block !important;
 }
 
 #main table {
