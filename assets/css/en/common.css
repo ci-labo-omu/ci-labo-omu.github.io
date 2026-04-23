@@ -332,10 +332,23 @@ th {
 }
 
 /* INFORMATION CUSTOMIZE */
-* html body #main dl.information dd div { display: inline-block; }
+* html body #main dl.information dd div {
+   display: inline-block;
+}
 #main dl.information dt {
-   clear: both; float: left; width: 10em; margin: 0; padding: 0; }
-#main dl.information dd { clear: both; margin: 0 0 0.5em 10em; padding: 0; background: transparent; overflow: hidden;}
+   clear: both;
+   float: left;
+   width: 10em;
+   margin: 0;
+   padding: 0;
+}
+#main dl.information dd {
+   clear: both;
+   margin: 0 0 0.5em 10em;
+   padding: 0;
+   background: transparent;
+   overflow: hidden;
+}
 
 #main table th {
    padding: 0px;
