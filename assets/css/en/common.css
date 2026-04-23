@@ -333,34 +333,19 @@ th {
 }
 
 /* INFORMATION CUSTOMIZE */
-#main dl.information {
-  display: grid !important;
-  grid-template-columns: 10em 1fr !important;
-  row-gap: 0.5em;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
+* html body #main dl.information dd div { display: inline-block; }
 #main dl.information dt {
-  grid-column: 1 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  float: none !important;
-  clear: none !important;
-  width: auto !important;
+   float: left;
+   width: 10em;
+   margin: 0;
+   padding: 0; 
 }
 
 #main dl.information dd {
-  grid-column: 2 !important;
-  margin: 0 0 0.5em 0 !important;
-  padding: 0 !important;
-  float: none !important;
-  clear: none !important;
-  background: transparent;
-}
-
-#main dl.information dd div {
-  display: block !important;
+   margin: 0 0 0.5em 10em;
+   padding: 0;
+   background: transparent;
+   overflow: hidden;
 }
 
 #main table {
