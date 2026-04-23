@@ -1,8 +1,8 @@
 ---
 published: true
 position:
-    en: Specially Appointed Professor
-    ja: 特任教授
+    en: Specially Appointed Assistant Professor
+    ja: 特任助教
 
 name:
     en: Lynn Pickering
