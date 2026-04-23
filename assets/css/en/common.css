@@ -333,23 +333,30 @@ th {
 }
 
 /* INFORMATION CUSTOMIZE */
-* html body #main dl.information dd div {
-   display: inline-block;
-}
-
-#main dl.information dt {
-   clear: left;
-   float: left;
-   width: 10em;
+#main dl.information {
+   display: grid;
+   grid-template-columns: 10em 1fr;
+   row-gap: 0.5em;
    margin: 0;
    padding: 0;
 }
 
+#main dl.information dt {
+   grid-column: 1;
+   margin: 0;
+   padding: 0;
+   font-weight: bold;
+}
+
 #main dl.information dd {
-   margin: 0 0 0.5em 10em;
+   grid-column: 2;
+   margin: 0;
    padding: 0;
    background: transparent;
-   overflow: hidden;
+}
+
+#main dl.information dd div {
+   display: block;
 }
 
 #main table {
