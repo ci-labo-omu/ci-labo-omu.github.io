@@ -1,6 +1,6 @@
 ---
 position:
-    en: Associate Professor
+    en: Society Infomatics Sector Associate Professor
     ja: 社会情報班 准教授
 
 name:
