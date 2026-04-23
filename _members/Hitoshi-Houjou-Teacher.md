@@ -5,7 +5,7 @@ position:
 
 name:
     en: Hitoshi Hohjo
-    ja: 北条 仁志　社会情報班
+    ja: 北條 仁志　社会情報班
 
 external_link:
     en: https://kyoiku-kenkyudb.omu.ac.jp/html/100001549_ja.html
