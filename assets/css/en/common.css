@@ -346,10 +346,10 @@ th {
 }
 
 #main dl.information dd {
-   clear: both;
    margin: 0 0 0.5em 10em;
    padding: 0;
    background: transparent;
+   overflow: hidden;
 }
 
 #main table {
