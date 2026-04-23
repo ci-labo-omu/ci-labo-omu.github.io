@@ -5,11 +5,11 @@ position:
     ja: 特任教授
 
 name:
-    en: Lynn Pickerln
-    ja: Lynn Pickerln
+    en: Lynn Pickering
+    ja: Lynn Pickering
 external_link:
-    en: 
-    ja: 
+    en: https://pickerln.github.io
+    ja: https://pickerln.github.io
 
 room:
     en: Nakamozu Campus, B4-E423/424
