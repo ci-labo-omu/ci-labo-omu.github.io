@@ -334,30 +334,33 @@ th {
 
 /* INFORMATION CUSTOMIZE */
 #main dl.information {
-   display: grid;
-   grid-template-columns: 10em 1fr;
-   row-gap: 0.5em;
-   margin: 0;
-   padding: 0;
+  display: grid;
+  grid-template-columns: 10em 1fr;
+  row-gap: 0.5em;
+  column-gap: 0;
+  margin: 0;
+  padding: 0;
+}
+
+#main dl.information dt,
+#main dl.information dd {
+  margin: 0;
+  padding: 0;
+  float: none;
+  clear: none;
 }
 
 #main dl.information dt {
-   grid-column: 1;
-   margin: 0;
-   padding: 0;
-   font-weight: bold;
+  grid-column: 1;
 }
 
 #main dl.information dd {
-   grid-column: 2;
-   margin: 0;
-   padding: 0;
-   background: transparent;
-   float: none;
+  grid-column: 2;
+  background: transparent;
 }
 
 #main dl.information dd div {
-   display: block;
+  display: block;
 }
 
 #main table {
