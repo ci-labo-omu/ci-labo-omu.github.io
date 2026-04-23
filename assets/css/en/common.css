@@ -337,6 +337,7 @@ th {
 }
 
 #main dl.information dt {
+   clear: both;
    float: left;
    width: 10em;
    margin: 0;
