@@ -333,24 +333,23 @@ th {
 }
 
 /* INFORMATION CUSTOMIZE */
-* html body #main dl.information dd div { display: inline-block; }
+* html body #main dl.information dd div {
+   display: inline-block;
+}
+
 #main dl.information dt {
    float: left;
    width: 10em;
    margin: 0;
-   padding: 0; 
+   padding: 0;
+
 }
 
 #main dl.information dd {
    margin: 0 0 0.5em 10em;
    padding: 0;
    background: transparent;
-   overflow: hidden;
-}
 
-#main table {
-   width: 100%;
-   border-collapse: collapse;
 }
 
 #main table th {
