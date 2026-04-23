@@ -332,21 +332,25 @@ th {
 }
 
 /* INFORMATION CUSTOMIZE */
-* html body #main dl.information dd div {
-   display: inline-block;
+#main dl.information {
+  display: grid;
+  grid-template-columns: 10em 1fr;
 }
 
 #main dl.information dt {
-   float: left;
-   width: 10em;
-   margin: 0;
-   padding: 0;
+  grid-column: 1;
+  margin: 0;
+  padding: 0;
+  float: none;
+  clear: none;
 }
 
 #main dl.information dd {
-   margin: 0 0 0.5em 10em;
-   padding: 0;
-   background: transparent;
+  grid-column: 2;
+  margin: 0 0 0.5em 0;
+  padding: 0;
+  float: none;
+  clear: none;
 }
 
 #main table th {
