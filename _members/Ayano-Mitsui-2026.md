@@ -7,7 +7,7 @@ name:
     en: Ayano Mitsui
     ja: 三井　彩乃
 
-email: sv24297gv@st.
+email: sv24297g@st.
 portrait:
 hiragana: みつい　あやの
 slug:
