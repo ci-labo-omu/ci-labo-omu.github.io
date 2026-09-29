@@ -5,7 +5,7 @@ position:
 
 name:
     en: Naoki Kanada
-    ja: 金田　尚輝
+    ja: 金田　尚樹
 
 email: sg24054k@st.
 portrait:
