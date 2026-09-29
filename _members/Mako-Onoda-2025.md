@@ -7,7 +7,7 @@ name:
     en: Mako Onoda 
     ja: 小野田　真子
 
-email: sq23164@st.
+email: sq23164h@st.
 portrait:
 hiragana: おのだ　まこ
 slug:
