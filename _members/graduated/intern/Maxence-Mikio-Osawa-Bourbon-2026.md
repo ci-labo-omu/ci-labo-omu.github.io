@@ -1,4 +1,5 @@
 ---
+published: false
 position:
     en: Intern
     ja: インターン
